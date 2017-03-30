@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Postit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_registro">Regístrate</string>
+    <string name="title_activity_iniciar_sesion">Inicia Sesión</string>
+
+    <string name="ajustes">Ajustes</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="title_activity_ajuste_perfil">Aquí puedes actualizar tus datos</string>
+    <string name="title_activity_splash">Ejecutando</string>
+
+    <string name="registrarse">Registrarse</string>
+    <string name="title_activity_list_publicaciones">Publicaciones de la Comunidad</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/ajutesPaginaInicio" android:title="@string/ajustes"
+        android:orderInCategory="50" app:showAsAction="always" />
+
+    <item android:id="@+id/refrescarPostit" android:title="Refrescar Postit"
+        android:orderInCategory="70" app:showAsAction="never" />
+
+    <item android:id="@+id/cerrarSesionPaginaInicio" android:title="@string/cerrarSesion"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
